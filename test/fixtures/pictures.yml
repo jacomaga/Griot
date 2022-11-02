@@ -1,11 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  description: MyText
-  url: MyString
-  category: MyString
+  description: "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  url: "https://conteudo.imguol.com.br/c/entretenimento/ea/2019/10/28/manoel-gomes-do-hit-caneta-azul-1572288220489_v2_450x600.jpg"
+  category: "banner"
+  publisher: one
 
 two:
-  description: MyText
-  url: MyString
-  category: MyString
+  description: "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  url: "https://i.pinimg.com/736x/b0/70/1a/b0701aa6ae2a696e7caf2f4a57eef5e8.jpg"
+  category: "profile-picture"
+  publisher: one
